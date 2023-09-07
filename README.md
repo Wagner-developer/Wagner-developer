@@ -1,4 +1,4 @@
-## Óla Mundo eu me chamo Wagner e sou Estudante de programação.
+## Óla Mundo. Eu me chamo Wagner e sou Estudante de programação.
 
 
 - 🧑 Gosto de Esportes
